@@ -42,7 +42,7 @@ class Song
   
   def self.genre_count
     
-    #keys are the name of each genre 
+   
   end 
   
 end 
