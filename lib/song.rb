@@ -2,7 +2,7 @@ class Song
   
   @@count = 0 
   
-  @@artist = nil
+  @@artist = 0
   
 
   def initialize (name,artist,genre)
