@@ -37,7 +37,7 @@ class Song
   end 
   
   def self.artists
-    @@artists
+    @@artists.uniqui
   end 
   
 end 
